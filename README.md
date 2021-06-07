@@ -61,14 +61,6 @@ Hi,I'm Shiv Patel <img align="center" src="https://media.giphy.com/media/1fhj2FW
 
 <br>
 
-<i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
-
-[![Shiv's github stats](https://github-readme-stats.vercel.app/api?username=shiv2711)](https://github.com/shiv2711/github-readme-stats)
-
-
-<u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
-
-
 
 
 
