@@ -4,7 +4,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shiv_Patel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiv-patel-27956b1a6/)](https://www.linkedin.com/in/shiv-patel-27956b1a6)
-[![Website Badge](https://img.shields.io/badge/-shiv2711.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://github.com/shiv2711)](https://godslayer201.github.io/)
+[![Website Badge](https://img.shields.io/badge/-shiv2711.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://github.com/shiv2711)](https://shiv2711.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-@i_m_shiv113-purple?style=flat&logo=instagram&logoColor=white&link=https:https://www.instagram.com/i_m_shiv113/)](https://www.instagram.com/i_m_shiv113/)
 <br>
 
@@ -20,7 +20,7 @@ Hi,I'm Shiv Patel <img align="center" src="https://media.giphy.com/media/1fhj2FW
 **About me:**
 
 
-- 🌱 I’m active in [Competitive Coding!](https://www.codechef.com/users/shiv27_11)
+- 🌱 I’m active in [Competitive Coding!](https://www.stopstalk.com/user/profile/_CODECRACKER_)
 - 👯 Curious about everything,hit me up!
 - 📫 How to reach me: Any of the Social-Media Platforms.
 - ✨ I'm into gaming,listening song and a cinema aficionado.
@@ -59,12 +59,11 @@ Hi,I'm Shiv Patel <img align="center" src="https://media.giphy.com/media/1fhj2FW
 
 
 
-**Stats :**  (https://gitstats.me/shiv2711)
 <br>
 
 <i> Note :</i>  These are not an indication of my skill level, just an overview of commits.
 
-[![Rachitt's github stats](https://github-readme-stats.vercel.app/api?username=shiv2711)](https://github.com/shiv2711/github-readme-stats)
+[![Shiv's github stats](https://github-readme-stats.vercel.app/api?username=shiv2711)](https://github.com/shiv2711/github-readme-stats)
 
 
 <u><i><b> Feel free to fork this repo and apply this template for your own Github profile.Cheers!</i></b></u>
