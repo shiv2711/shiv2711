@@ -4,7 +4,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shiv_Patel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiv-patel-27956b1a6/)](https://www.linkedin.com/in/shiv-patel-27956b1a6)
-[![Website Badge](https://img.shields.io/badge/-godslayer201.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://godslayer201.github.io/)](https://godslayer201.github.io/)
+[![Website Badge](https://img.shields.io/badge/-shiv2711.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https:https://github.com/shiv2711)](https://godslayer201.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-@i_m_shiv113-purple?style=flat&logo=instagram&logoColor=white&link=https:https://www.instagram.com/i_m_shiv113/)](https://www.instagram.com/i_m_shiv113/)
 <br>
 
